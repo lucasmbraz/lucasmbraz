@@ -2,17 +2,18 @@
 
 I am Lucas M. Braz (he/him)
 
+</h2>
+
+<p align='center'>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> Senior Flutter Developer  |  <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="20" height="20"/> Ex-Spotify  |  🌱 Co-Founder
+</p>
+
 <p align='center'>
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>  
 </p>
-</h2>
 
+</br>
 
-### **About me**
-
-- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> Senior Flutter Developer
-- <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="spotify" width="20" height="20"/> Ex-Spotify
-- 🌱 Co-Founder at Florence Smart Health
 - <img src="https://www.svgrepo.com/show/295398/code.svg" alt="code" width="20" height="20"/> Passioned about code quality
 - ❤️ Build delightful user experiences
 -  CI/CD Enthusiast
