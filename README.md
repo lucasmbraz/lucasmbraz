@@ -14,8 +14,9 @@ I am Lucas M. Braz (he/him)
 
 </br>
 
-- <img src="https://www.svgrepo.com/show/295398/code.svg" alt="code" width="20" height="20"/> Passioned about code quality
+- <img src="https://www.svgrepo.com/show/407418/shield.svg" alt="code" width="20" height="20"/> 12+ years of experience
 - ❤️ Build delightful user experiences
+- <img src="https://www.svgrepo.com/show/295398/code.svg" alt="code" width="20" height="20"/> Passioned about code quality
 - <img src="https://www.svgrepo.com/show/400683/rocket.svg" alt="code" width="20" height="20"/> CI/CD Enthusiast
 
 
