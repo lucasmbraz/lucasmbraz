@@ -34,6 +34,8 @@ I am Lucas M. Braz (he/him)
 </a>
 <a href="mailto:lmonteirobraz@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://lucasmbraz.com/" target="_blank">
+<img alt="Website" src="https://img.shields.io/badge/www-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p> 
 
 </br>
